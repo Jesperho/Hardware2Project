@@ -1,6 +1,4 @@
-This is an example project that can be used to install MicroPython libraries that are needed for
-the first year hardware project. You can also use this as a template for your own
-project.
+This an experimental and educational project. It's purpose is to utilize a Raspberry Pi Pico W micro-controller with a crow tail pulse sensor to measure Heart rate and heart rate variability analysis. In order to run this project as a prerequisites you need to setup your Pico with the necessary libraries. Follow the instructions below. 
 
 To setup your Pico
 You need to have git installed. Make sure that you have python installed and that is in the path. You can verify this in terminal
